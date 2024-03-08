@@ -1,0 +1,9 @@
+.encabezado{
+color:rgb(255, 255, 0);
+width: 100%;
+}
+
+canvas{
+    border-radius:20px;
+    background:rgb(128, 255, 0);
+}
